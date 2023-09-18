@@ -1,4 +1,4 @@
-#Proyecto de software de Expresiones y Análisis
+# Proyecto de software de Expresiones y Análisis
 ## **Expresiones regulares**
 Es un analizador léxico con una interfaz grafica que permite al usuario ingresar una expresion matematica para evaluar lo que son operadores, variables, 
 constantes y otros caracteres desconocidos, los cuales los evalua y determina de que carac ter es por así decirlo, ya sea variable, constantes, etc. 
